@@ -459,9 +459,6 @@
 
 > I don't mean that some people are born clearheaded and are therefore natural writers, whereas others are naturally fuzzy and will never write well. Thinking clearly is a conscious act that writers must force on themselves, as if they were working on any other project that requires logic: making a shopping list or doing an algebra problem. Good writing doesn't come naturally, though most people seem to think it does. Professional writers are constantly bearded by people who say they'd like to "try a little writing sometime"—meaning when they retire from their real profession, like insurance or real estate, which is hard. Or they say,"I could write a book about that." I doubt it.
 
-<details>
-<summary>生词</summary>
-</details>
 我并不是说有些人天生头脑清醒，因此是天生的作家，而另一些人则天生模糊，永远写不出好作品。 清晰思考是作家必须强迫自己的一种有意识的行为，就像他们正在从事任何其他需要逻辑的项目一样：列出购物清单或做代数问题。 好的写作并不是自然而然的，尽管大多数人似乎认为它是自然而然的。 专业作家经常被那些说他们想“找个时间尝试一点写作”的人留着胡子——意思是当他们从保险或房地产等真正的职业退休时，这很难。 或者他们说，“我可以写一本关于这个的书。” 我对此表示怀疑。
 
 > Writing is hard work. A clear sentence is no accident. Very few sentences come out right the first time, or even the third time. Remember this in moments of despair. If you find that writing is hard, it's because it is hard.
